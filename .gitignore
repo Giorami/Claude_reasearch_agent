@@ -1,0 +1,10 @@
+# 環境変数・シークレットキー
+.env
+
+# Pythonの仮想環境やキャッシュ（Pythonを使っている場合）
+__pycache__/
+venv/
+.venv/
+
+# Node.jsのモジュール（Node.jsを使っている場合）
+node_modules/
